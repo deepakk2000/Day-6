@@ -1,0 +1,7 @@
+D:\.net\New folder\Day-6\Manipulating Data with Jagged Arrays\Manipulating Data with Jagged Arrays\bin\Debug\Manipulating Data with Jagged Arrays.exe.config
+D:\.net\New folder\Day-6\Manipulating Data with Jagged Arrays\Manipulating Data with Jagged Arrays\bin\Debug\Manipulating Data with Jagged Arrays.exe
+D:\.net\New folder\Day-6\Manipulating Data with Jagged Arrays\Manipulating Data with Jagged Arrays\bin\Debug\Manipulating Data with Jagged Arrays.pdb
+D:\.net\New folder\Day-6\Manipulating Data with Jagged Arrays\Manipulating Data with Jagged Arrays\obj\Debug\Manipulating Data with Jagged Arrays.csproj.AssemblyReference.cache
+D:\.net\New folder\Day-6\Manipulating Data with Jagged Arrays\Manipulating Data with Jagged Arrays\obj\Debug\Manipulating Data with Jagged Arrays.csproj.CoreCompileInputs.cache
+D:\.net\New folder\Day-6\Manipulating Data with Jagged Arrays\Manipulating Data with Jagged Arrays\obj\Debug\Manipulating Data with Jagged Arrays.exe
+D:\.net\New folder\Day-6\Manipulating Data with Jagged Arrays\Manipulating Data with Jagged Arrays\obj\Debug\Manipulating Data with Jagged Arrays.pdb
